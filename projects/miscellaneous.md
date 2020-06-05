@@ -117,4 +117,7 @@
 - [COVID DashBoard for Policy Makers](https://covid19kol.herokuapp.com/) (Built in consultation with isical Kolkata for intervention monitoring)
 
 ---
+
+- [Covid-19 Tracker for India - State and Dstrict wise (React App)] (https://covid19indiastatus-da4dc.web.app)
+	- By: Mehul Sengupta [@mehulsengupta](https://github.com/mehulsengupta/)
     
