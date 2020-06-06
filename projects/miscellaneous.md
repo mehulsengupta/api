@@ -118,6 +118,9 @@
 
 ---
 
-- [Covid-19 Tracker for India - State and Dstrict wise (React App)] (https://covid19indiastatus-da4dc.web.app)
-	- By: Mehul Sengupta [@mehulsengupta](https://github.com/mehulsengupta/)
+- [COVID-19 Tracker for India (React App)](https://covid19indiastatus-da4dc.web.app) (State and District wise figures)
+    - By: [@mehulsengupta](https://github.com/mehulsengupta/)
+
+---
+
     
